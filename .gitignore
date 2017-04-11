@@ -11,6 +11,9 @@ __pycache__/
 *.tgz
 *.p
 cifar-10-batches-py/
+image_classification.data-00000-of-00001
+image_classification.index
+image_classification.meta
 
 # Distribution / packaging
 .Python
